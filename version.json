@@ -1,4 +1,4 @@
 {
   "firmware": "1.0.1",
-  "firmware_url": "https://meudominio.com/firmware_1.0.1.bin"
+  "firmware_url": "https://github.com/VisionCast/visioncast-ota/raw/refs/heads/main/firmware_1.0.1.bin"
 }
